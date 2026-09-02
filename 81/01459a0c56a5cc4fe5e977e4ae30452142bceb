@@ -1,0 +1,24 @@
+plugins/wasm-go/extensions/ext-auth/main_test.go
+  s_5d6beb9cea6679::t_2ccb1988382f6d 19,23
+  s_5d6beb9cea6679::t_09e242a3c9e28b 268-285,287,289-327,329,331-348
+  s_5d6beb9cea6679::t_6b0c3d05143aa3 286,288,328,330
+  s_5d6beb9cea6679::t_4f4a166e89ac08 24
+plugins/wasm-go/extensions/ext-auth/main.go
+  s_5d6beb9cea6679::t_0571826ad92574 48-53,132,150,205,208-211,232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "8101459a0c56a5cc4fe5e977e4ae30452142bceb",
+  "prompts": {},
+  "sessions": {
+    "s_5d6beb9cea6679": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05fed-c8b6-7c83-b501-1a956d7a03bf",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
