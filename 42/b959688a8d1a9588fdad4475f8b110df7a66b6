@@ -1,0 +1,28 @@
+plugins/wasm-go/extensions/ext-auth/main_test.go
+  s_5d6beb9cea6679::t_863ddac4d415b2 165-183,613-632
+  s_5d6beb9cea6679::t_6b0c3d05143aa3 305,307,347,349
+  s_5d6beb9cea6679::t_4f4a166e89ac08 24
+  s_5d6beb9cea6679::t_09e242a3c9e28b 287-304,306,308-346,348,350-367
+  s_5d6beb9cea6679::t_2ccb1988382f6d 19,23
+  s_5d6beb9cea6679::t_ed169f77ea8cf5 633-635
+  s_5d6beb9cea6679::t_15fc6e9ba89233 636
+plugins/wasm-go/extensions/ext-auth/main.go
+  s_5d6beb9cea6679::t_0571826ad92574 48-53,133,152,207,210-213,234
+  s_5d6beb9cea6679::t_cebc944415bbdc 132,151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "42b959688a8d1a9588fdad4475f8b110df7a66b6",
+  "prompts": {},
+  "sessions": {
+    "s_5d6beb9cea6679": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05fed-c8b6-7c83-b501-1a956d7a03bf",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
