@@ -1,0 +1,33 @@
+pkg/ingress/kube/gateway/istio/conversion_test.go
+  s_5d6beb9cea6679::t_bd8d2b2aee8819 37,897,903,919,934
+  s_5d6beb9cea6679::t_e8f0bb218f3097 29,882-896,898-902,904-918,920-933,935-960,962
+  s_5d6beb9cea6679::t_f9c533eae8e658 961
+  s_5d6beb9cea6679::t_2c776982ab95b4 963-964
+pkg/ingress/kube/gateway/istio/testdata/east-west-ambient.status.yaml.golden
+  s_5d6beb9cea6679::t_81cbe098537806 80-83
+pkg/ingress/kube/gateway/istio/testdata/waypoint.status.yaml.golden
+  s_5d6beb9cea6679::t_0d5968570a138c 34-36
+pkg/ingress/kube/gateway/istio/testdata/invalid.status.yaml.golden
+  s_5d6beb9cea6679::t_1a0f9c2c96e49a 301-303,395-397,440-442
+pkg/ingress/kube/gateway/istio/conversion.go
+  s_5d6beb9cea6679::t_e4e84424ecd6d0 2163
+  s_5d6beb9cea6679::t_8d111c300d1fb4 2160-2162,2164-2172
+pkg/ingress/kube/gateway/istio/testdata/gateway-v1.6.status.yaml.golden
+  s_5d6beb9cea6679::t_2cfd8b8c363a94 182-184,227-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fde3ce577bfdb2169d6fc462c6bd7264aab0333f",
+  "prompts": {},
+  "sessions": {
+    "s_5d6beb9cea6679": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05fed-c8b6-7c83-b501-1a956d7a03bf",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
