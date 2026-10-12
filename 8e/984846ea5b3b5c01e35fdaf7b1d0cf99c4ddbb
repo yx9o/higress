@@ -1,0 +1,25 @@
+changes/ai-proxy-retry-custom-settings.md
+  s_5d6beb9cea6679::t_832ff48790f604 1-22
+plugins/wasm-go/extensions/ai-proxy/main.go
+  s_5d6beb9cea6679::t_832ff48790f604 389-392
+plugins/wasm-go/extensions/ai-proxy/retry_custom_settings_test.go
+  s_5d6beb9cea6679::t_7c799973d1b49a 1-47,52-53,55-69,76-89,92-97,103-106,108-139
+  s_5d6beb9cea6679::t_6234908fc68afb 48-51,54,70-75,90-91
+  s_5d6beb9cea6679::t_05750fd31bb8e1 98-102,107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8e984846ea5b3b5c01e35fdaf7b1d0cf99c4ddbb",
+  "prompts": {},
+  "sessions": {
+    "s_5d6beb9cea6679": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05fed-c8b6-7c83-b501-1a956d7a03bf",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
