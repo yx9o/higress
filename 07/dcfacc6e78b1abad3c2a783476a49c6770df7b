@@ -1,0 +1,27 @@
+changes/ai-json-resp-optional-schema.md
+  s_5d6beb9cea6679::t_554238d571c3c1 17-28
+  s_5d6beb9cea6679::t_baaa7f916eedf9 1-16
+plugins/wasm-go/extensions/ai-json-resp/main_test.go
+  s_5d6beb9cea6679::t_554238d571c3c1 263-264,276-277
+  s_5d6beb9cea6679::t_9d69d143089b1c 147-148,150-152,154-155,163-178,283-284,289,304-305,313-320,325,329-333,335-340
+  s_5d6beb9cea6679::t_db999eab9088c8 149,153,156-162,282,285-288,290-303,306-312,321-324,326-328,334
+  s_5d6beb9cea6679::t_10b51540ff7304 341-343
+plugins/wasm-go/extensions/ai-json-resp/main.go
+  s_5d6beb9cea6679::t_554238d571c3c1 231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "07dcfacc6e78b1abad3c2a783476a49c6770df7b",
+  "prompts": {},
+  "sessions": {
+    "s_5d6beb9cea6679": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a05fed-c8b6-7c83-b501-1a956d7a03bf",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
